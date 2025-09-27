@@ -1,10 +1,3 @@
-# Local Passport Auth Service
-
-This project demonstrates **local authentication** using [Passport.js](http://www.passportjs.org/).  
-Features included: **Register, Login, Protected Route (Profile), and Logout**.
-
----
-
 ## Test Results
 
 ### 1. Register
