@@ -27,7 +27,7 @@ Features included: **Register, Login, Protected Route (Profile), and Logout**.
 ![Login](./public/results/login.png)
 
 #### Cookie sau khi login (Postman)
-![Show Cookie Login](./public/results/show_cookie_login_postman.png)
+![Show Cookie Login](./public/results/show_cookie_login_potsman.png)
 
 ---
 
@@ -58,6 +58,6 @@ Features included: **Register, Login, Protected Route (Profile), and Logout**.
     ```bash
    node server.js
 3. Server mặc định chạy tại:
-      ```bash
-  http://localhost:3000
+    ```bash
+    http://localhost:3000
 
